@@ -11,7 +11,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-
         primarySwatch: Colors.blue,
       ),
       home: MyHomePage(),
@@ -19,36 +18,27 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class MyHomePage extends StatefulWidget {
+// ================================================
 
+
+class MyHomePage extends StatefulWidget {
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
-
 class _MyHomePageState extends State<MyHomePage> {
-
-
   @override
   Widget build(BuildContext context) {
-
     return Scaffold(
       appBar: AppBar(
-
         title: Text("VCS"),
-        centerTitle: true
-        ,
+        centerTitle: true,
       ),
       body: Center(
-
         child: Column(
-
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
-              'You have pushed the button this many times:',
-            ),
-            Text(
-              "GIT INTEGRATION WITH AS",
+            Text('You have pushed the button this many times:', ),
+            Text("GIT INTEGRATION WITH AS",
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
