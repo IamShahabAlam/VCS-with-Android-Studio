@@ -13,6 +13,33 @@ Version Control System with Android Studio.
 - Git push on Github
 
 
+## GIT Integration with Android Studio
+
+- Open non-Git project on Android Studio.
+- First Test Git Cofigured
+- Settings > Version Control > Git. 
+- Now press Test Button (It will show you Git Version installed).
+- To Add Account
+- Settings > Version Control > GitHub. 
+- If its showing error try this
+- Settings > Version Control > Git. 
+- File > new > Project from VC > Github > give Token.
+
+## Steps for Creating Repository:
+
+- VCS > Import into VC > Create Git Repository. (All FIles will become brown)
+- Select Your Project Folder OR Click On (Android Icon) Project Directory.
+- Now Select your Project folder in left Project section.
+- VCS > GIT > Add (ctrl + alt + A) (All files will turn green).
+- Click purple arrow button (commit) (ctrl + k)
+- Unselect those files whome u dnt wnt to commit
+- Give commit msg.
+- press commit button.
+- Now Press push button (Green Arrow) (ctrl + shift + k)
+- Create repo on Github copy URL
+- Come to A.S , Press on Define Remote
+- Paste in the URL press OK.
+- Push
 
 ## Demonstration
 
