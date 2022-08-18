@@ -4,14 +4,13 @@ Version Control System with Android Studio.
 
 ## Test
 
-- Body Mass Index
-- Basal Metabolic Rate (CONTINUE)
-- BMI Result (Result , Score , Suggestions)
-- BMR Result (Score , Suggestions for different activity levels)
-- Weight Loss Guide
-- Wight Gain Guide 
-- Diet Plan and Exercises for both.
-- 13 Screens
+- Flutter Project
+- Except using Git Terminal
+- Using only Android Studio
+- Git add Files
+- Git commit
+- Git repo Creation
+- Git push on Github
 
 
 
