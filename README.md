@@ -4,9 +4,8 @@ Version Control System with Android Studio.
 
 ## Test
 
-- Flutter Project
-- Except using Git Terminal
-- Using only Android Studio
+- Push Project without using Git Terminal
+- By using only Android Studio
 - Git add Files
 - Git commit
 - Git repo Creation
@@ -31,15 +30,15 @@ Version Control System with Android Studio.
 - Select Your Project Folder OR Click On (Android Icon) Project Directory.
 - Now Select your Project folder in left Project section.
 - VCS > GIT > Add (ctrl + alt + A) (All files will turn green).
-- Click purple arrow button (commit) (ctrl + k)
+- In Tool Bar, Click purple arrow button (commit) (ctrl + k)
 - Unselect those files whome u dnt wnt to commit
 - Give commit msg.
 - press commit button.
-- Now Press push button (Green Arrow) (ctrl + shift + k)
-- Create repo on Github copy URL
+- Now In Tool Bar, Press push button (Green Arrow) (ctrl + shift + k)
+- Create repo in Github, copy the URL
 - Come to A.S , Press on Define Remote
 - Paste in the URL press OK.
-- Push
+- Press Push button.
 
 ## Demonstration
 
