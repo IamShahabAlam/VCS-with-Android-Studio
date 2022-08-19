@@ -42,6 +42,19 @@ Version Control System with Android Studio.
 - Paste in the URL press OK.
 - Press Push button.
 
+### Manually 
+##  Creating remote repository
+
+- git init
+- git status
+- git add -A
+- git status
+- git config --global user.name "Your Name"
+- git config --global user.email "YourEmail@gmail.com"
+- git commit -m "Initial commit"
+- git remote add origin ~ URL ~ (Copy URL from github after creating a repository there) (ur URL is saved in origin)
+- git push -u origin master (master branch is selected n pushed to repo)
+
 ## Demonstration
 
 <!-- COMING SOON :screwdriver: :placard:	  -->
