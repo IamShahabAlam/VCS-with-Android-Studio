@@ -44,16 +44,16 @@ Version Control System with Android Studio.
 
 ## Manually :x:
 ###  Creating remote repository
-* Go to your Project Folder.
-* Right Click > Press on Git Bash Here.
-Now Follow the given Steps
+~ Go to your Project Folder. \
+~ Right Click > Press on Git Bash Here. \
+Now Follow the given Steps:
 - git init
 - git status
-- git add -A
-- git status
+- git add -A (It'll add all your files in Staging Area)
+- git status 
 - git config --global user.name "Your Name"
 - git config --global user.email "YourEmail@gmail.com"
-- git commit -m "Initial commit"
+- git commit -m "Initial commit" (Commit msg for remembrance)
 - git remote add origin ~ URL ~ (Copy URL from github after creating a repository there) (ur URL is saved in origin)
 - git push -u origin master (master branch is selected n pushed to repo)
 
