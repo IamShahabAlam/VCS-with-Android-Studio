@@ -42,9 +42,11 @@ Version Control System with Android Studio.
 - Paste in the URL press OK.
 - Press Push button.
 
-### Manually 
-##  Creating remote repository
-
+## Manually :x:
+###  Creating remote repository
+* Go to your Project Folder.
+* Right Click > Press on Git Bash Here.
+Now Follow the given Steps
 - git init
 - git status
 - git add -A
