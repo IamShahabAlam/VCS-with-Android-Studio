@@ -64,6 +64,9 @@ Now Follow the given Steps:
 * Git Working Structure
 <img src="https://user-images.githubusercontent.com/82330891/185735240-adbbf761-6fa0-49f6-9127-a32e9a493669.JPG" />
 
+* Git in Android Studio
+<img src="https://user-images.githubusercontent.com/82330891/185735242-07cb5795-49ce-483f-9d18-3387f0474cee.PNG" />
+
 * Android Studio's Toolbar  with Git Commands
 <img src="https://user-images.githubusercontent.com/82330891/185735239-292ff776-855a-453f-a7c8-20faf22c09a7.PNG" />
 
