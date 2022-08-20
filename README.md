@@ -70,9 +70,13 @@ Now Follow the given Steps:
 * Android Studio's Toolbar  with Git Commands
 <img src="https://user-images.githubusercontent.com/82330891/185735239-292ff776-855a-453f-a7c8-20faf22c09a7.PNG" />
 
-<img src="" />
+* Press (Alt + 9) 
+* Details about Git
+<img src="https://user-images.githubusercontent.com/82330891/185735244-9c8d02ef-4e5a-4ea0-92fc-be72f6804103.PNG" />
 
-<img align="left" height="600px" width="300px" src="" />
+* Log Screen With many options
+<img src="https://user-images.githubusercontent.com/82330891/185735241-57906bd3-30f9-49d8-9e58-4032c78a432c.PNG" />
+
 <img align="left" height="600px" width="300px" src="" /> 
 <img align="left" height="600px" width="300px" src="" />
 <img align="left" height="600px" width="300px" src="" />
