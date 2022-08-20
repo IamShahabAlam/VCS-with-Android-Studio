@@ -61,11 +61,14 @@ Now Follow the given Steps:
 
 <!-- COMING SOON :screwdriver: :placard:	  -->
 
+* Git Working Structure
+<img src="https://user-images.githubusercontent.com/82330891/185735240-adbbf761-6fa0-49f6-9127-a32e9a493669.JPG" />
 
+* Android Studio's Toolbar  with Git Commands
+<img src="https://user-images.githubusercontent.com/82330891/185735239-292ff776-855a-453f-a7c8-20faf22c09a7.PNG" />
 
-<img align="center" height="300px" width="200px" src="" />
-<img align="left" height="600px" width="300px" src="" />
-<img align="left" height="600px" width="300px" src="" />
+<img src="" />
+
 <img align="left" height="600px" width="300px" src="" />
 <img align="left" height="600px" width="300px" src="" /> 
 <img align="left" height="600px" width="300px" src="" />
