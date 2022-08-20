@@ -77,11 +77,6 @@ Now Follow the given Steps:
 * Log Screen With many options
 <img src="https://user-images.githubusercontent.com/82330891/185735241-57906bd3-30f9-49d8-9e58-4032c78a432c.PNG" />
 
-<img align="left" height="600px" width="300px" src="" /> 
-<img align="left" height="600px" width="300px" src="" />
-<img align="left" height="600px" width="300px" src="" />
-<img align="left" height="600px" width="300px" src="" />
-<img height="600px" width="300px" src="" /> 
 
 <br/>
 
